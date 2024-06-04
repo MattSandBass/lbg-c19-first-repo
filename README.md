@@ -19,3 +19,7 @@ git status
 git add
 git commit
 ```
+this is some other funky stuff you can do
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
