@@ -24,6 +24,8 @@ this is some other funky stuff you can do
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:git 
 
+these look really useful :
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
