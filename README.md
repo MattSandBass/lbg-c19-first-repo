@@ -5,13 +5,8 @@ This section will contain contents
 * [Installation](#installation)
 * [Usage](#usage)
 
-The contents will go something like this:
-
-1. content 1
-2. content 2
-
 ## Installation
-This would normally describe what to do to install this application
+This would normally describe what to do to install this application, and ti would probably be quite a long explanation, whereas this is rather short.
 
 ## Usage
-This will detail how to use the application
+This will detail how to use the application, and because it is incredibly complex this section is also likely to be rather lengthy. The contents links at the top of this readme should help with navigation.
