@@ -1,7 +1,7 @@
 # LBG-REPO-1
-This is an example git repository.
+This is an example git repository. Here is some **bold text** just for fun.
 ## Contents
-This section will contain contents
+
 * [Installation](#installation)
 * [Usage](#usage)
 
